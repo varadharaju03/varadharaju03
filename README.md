@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Varadharaju, Btech CSE graduate with curiosity to learn and explore my skills vastly.
+
+- 🌱 I’m currently learning Python
+- 🤔 I’m looking for help with queries on Python
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/varadharaju) | varadharaju8144@gmail.com
+- 😄 Pronouns: Him/He
+- ⚡ Fun fact: 
