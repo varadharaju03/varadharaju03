@@ -20,4 +20,4 @@ I'm Varadharaju, Btech CSE graduate with curiosity to learn and explore my skill
 - 🤔 I’m looking for help with queries on Python
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/varadharaju) | varadharaju8144@gmail.com
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact: 
+- ⚡ Fun fact: fear of dogs
